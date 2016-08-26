@@ -1,15 +1,15 @@
-typography_spectrum: 0.821275876602158
+layout_spectrum: 0.3207934487145394
+typography_spectrum: 0.8433514095377177
 color:
-  brandStrength: 0.7414133106358349
-  lightness: 0.8356596045196056
-  saturation: 0.929899163544178
-  rhythmicContrast: 0.07203614083118737
+  brandStrength: 0.47261303616687655
+  lightness: 0.3988495450466871
+  saturation: 0.38629138306714594
+  rhythmicContrast: 0.670428971759975
   brandColors:
-    - '#04BFBF'
-    - '#CAFCD8'
-    - '#F7E967'
-    - '#A9CF54'
-    - '#588F27'
-layout_spectrum: 0.6351487468928099
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
 name: DXLab
 title: Better DXing Through Software

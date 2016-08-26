@@ -1,4 +1,3 @@
-layout_spectrum: 0.6351487468928099
 typography_spectrum: 0.821275876602158
 color:
   brandStrength: 0.7414133106358349
@@ -6,9 +5,11 @@ color:
   saturation: 0.929899163544178
   rhythmicContrast: 0.07203614083118737
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#04BFBF'
+    - '#CAFCD8'
+    - '#F7E967'
+    - '#A9CF54'
+    - '#588F27'
+layout_spectrum: 0.6351487468928099
 name: DXLab
+title: Better DXing Through Software
